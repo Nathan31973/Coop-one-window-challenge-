@@ -1,0 +1,39 @@
+return 10003000
+^1ERROR: in map: g:\steam\steamapps\common\call of duty black ops iii\\map_source\zm\zm_4player_one_windows_game.map
+  col_map:maps/zm/zm_4player_one_windows_game.d3dbsp
+^1ERROR: Entity 20 misc_prefab at (0 0 0) has no model
+  col_map:maps/zm/zm_4player_one_windows_game.d3dbsp
+^1ERROR: Prefab '_prefabs/default_missing_prefab.map' not found
+  col_map:maps/zm/zm_4player_one_windows_game.d3dbsp
+^1ERROR: Material mc_mtl_veh_t6_dlc_zombie_plane_add was not found in gdtDB
+  material:mc/mc_mtl_veh_t6_dlc_zombie_plane_add
+    xmodel:veh_t6_dlc_zombie_plane_whole
+      col_map:maps/zm/zm_4player_one_windows_game.d3dbsp
+^1The model (veh_t6_dlc_zombie_plane_whole) uses material (mc_mtl_veh_t6_dlc_zombie_plane_add) but there is no techset for surface 6
+  xmodel:veh_t6_dlc_zombie_plane_whole
+    col_map:maps/zm/zm_4player_one_windows_game.d3dbsp
+^1ERROR: Material mc_mtl_veh_t6_dlc_zombie_part_control_unlit was not found in gdtDB
+  material:mc/mc_mtl_veh_t6_dlc_zombie_part_control_unlit
+    xmodel:veh_t6_dlc_zombie_plane_whole
+      col_map:maps/zm/zm_4player_one_windows_game.d3dbsp
+^1The model (veh_t6_dlc_zombie_plane_whole) uses material (mc_mtl_veh_t6_dlc_zombie_part_control_unlit) but there is no techset for surface 7
+  xmodel:veh_t6_dlc_zombie_plane_whole
+    col_map:maps/zm/zm_4player_one_windows_game.d3dbsp
+^1ERROR: 'helmet' is not a valid physpreset asset
+  physpreset:helmet
+    xmodel:p7_construction_hardhat
+      col_map:maps/zm/zm_4player_one_windows_game.d3dbsp
+^1ERROR: 'water_cooler_bottle' is not a valid physpreset asset
+  physpreset:water_cooler_bottle
+    xmodel:nt_2020_cardboardbox
+      col_map:maps/zm/zm_4player_one_windows_game.d3dbsp
+^1ERROR: 'p7_eth_decor_01_rock_01' is not a valid physpreset asset
+  physpreset:p7_eth_decor_01_rock_01
+    xmodel:p7_toilet_bathroom
+      col_map:maps/zm/zm_4player_one_windows_game.d3dbsp
+^3WARNING: "zmcore_bgb_machine" is not a valid zbarrier
+  zbarrier:zmcore_bgb_machine
+    col_map:maps/zm/zm_4player_one_windows_game.d3dbsp
+^3Found 4 bad nodes, 0 useless nodes, dumped to G:\Steam\SteamApps\common\Call of Duty Black Ops III\/usermaps\zm_4player_one_windows_game/zone_source/all/assetinfo/zm_4player_one_windows_game.badnodes file.
+  game_map:maps/zm/zm_4player_one_windows_game.d3dbsp
+^3Found 16 bad bulletmeshes, dumped to G:\Steam\SteamApps\common\Call of Duty Black Ops III\/usermaps\zm_4player_one_windows_game/zone_source/all/assetinfo/zm_4player_one_windows_game_bulletreport.csv file.

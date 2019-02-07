@@ -1,0 +1,12 @@
+--------------------------------------------------------------------------------
+INFO: AI will not use BAD NODES, and will error if forced to do so.
+INFO: USELESS NODES can be used by AI, but AI will not be able to shoot enemies.
+--------------------------------------------------------------------------------
+
+begin negotiation node at ( 457, -4822, -1936 ) or its opposite end will not have navmesh underneath it in game, marked as a bad node
+
+end negotiation node at ( 375, -4822, -1936 ) or its opposite end will not have navmesh underneath it in game, marked as a bad node
+
+BAD NODE: begin negotiation              (  1311, -5120, -1936 ) is in solid.
+BAD NODE: BAD NODE                       (   457, -4822, -1936 ) is in solid.
+
