@@ -5,4 +5,5 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=781881195
 How to Install these files.
 Clone and open the zip
 Drag and drop all the files to your root Black ops 3 folder on steam
-!!some files will be replace so be aware!!!
+
+!!SOME FILES WILL BE OVERWRIGHT ONCE YOU COPY FILES FROM THE zip, MAKE SURE YOUR BACKUP YOUR CUSTOM SOUNDS FILES AND ALIASES!!
